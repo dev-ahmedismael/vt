@@ -1,4 +1,4 @@
-import ContractPayment from "@/components/ar/contract/ContractPayment";
+import ContractPayment from "@/components/contract/ContractPayment";
 import React from "react";
 
 const page = () => {

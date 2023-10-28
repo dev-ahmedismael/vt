@@ -1,4 +1,4 @@
-import ContractTerms from "@/components/ar/contract/ContractTerms";
+import ContractTerms from "@/components/contract/ContractTerms";
 import React from "react";
 
 const app = () => {

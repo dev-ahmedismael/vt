@@ -1,4 +1,4 @@
-import ContractProductDetails from "@/components/ar/contract/ContractProductDetails";
+import ContractProductDetails from "@/components/contract/ContractProductDetails";
 import React from "react";
 
 const page = () => {

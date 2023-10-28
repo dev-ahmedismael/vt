@@ -1,4 +1,4 @@
-import FinalContract from "@/components/ar/contract/FinalContract";
+import FinalContract from "@/components/contract/FinalContract";
 import React from "react";
 
 const page = () => {

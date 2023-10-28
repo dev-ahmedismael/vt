@@ -1,4 +1,4 @@
-import PaymentRedirect from "@/components/ar/contract/PaymentRedirect";
+import PaymentRedirect from "@/components/contract/PaymentRedirect";
 import React from "react";
 
 const page = () => {

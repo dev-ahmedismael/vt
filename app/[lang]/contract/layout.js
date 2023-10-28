@@ -1,4 +1,4 @@
-import ContractSteps from "@/components/ar/contract/ContractSteps";
+import ContractSteps from "@/components/contract/ContractSteps";
 import React from "react";
 
 const contractLayout = ({ children }) => {
