@@ -1,0 +1,232 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about_us": "About Us",
+    "contact_us": "Contact Us",
+    "user_nav_menu": {
+      "manage_account": "Manage Account",
+      "terms_and_conditions": "Terms & Conditions",
+      "privacy_policy": "Privacy Policy",
+      "exchange_policy": "Exchange and Return Policy",
+      "sign_out": "Sign Out"
+    }
+  },
+  "home": {
+    "header": {
+      "title_1": "Your journey to Artifical Intelligence",
+      "title_2": "Starts with us...",
+      "button": "Contact Us Now"
+    },
+    "statistics": {
+      "years_of_experience": "Years of Experience",
+      "project": "Project",
+      "happy_client": "Happy Client",
+      "partners": "Partners",
+      "offices": "Offices",
+      "hospitality": "Hospitality"
+    },
+    "about_us": {
+      "title": "About Us",
+      "description": "A Saudi company working in the field of technology and information through using of AI (artificial intelligence) technologies, computer vision, the use of robots, the provision of AR (augmented reality) experience, data science, the acquisition of outputs through certain procedures that created according to the workflow, the installation of networking and communications services, camera monitoring systems and the provision of Cyber security services.",
+      "button": "Know More"
+    },
+    "our_services": {
+      "title": "Our Services",
+      "description": "The Vision Things Company offers many technical and informational services, networks and other services that you can view and learn more about",
+      "cards": [
+        {
+          "id": 1,
+          "title": "Development and Research",
+          "description": "The company works to provide the latest technical solutions through R&D in the following fields AI, CR, Robots and IOT",
+          "boxColor": "linear-gradient(to bottom,#8B60ED,#B372BD)"
+        },
+        {
+          "id": 2,
+          "title": "Network Solutions",
+          "description": "Network extension design is the process of planning and implementing a new or updated network system. This includes identifying business needs",
+          "boxColor": "linear-gradient(to bottom,#21C8F6,#637BFF)"
+        },
+        {
+          "id": 3,
+          "title": "Business Solutions",
+          "description": "Creating websites and technical solutions to facilitate business management operations and make them administratively more professional",
+          "boxColor": "linear-gradient(to bottom,#6EDCC4,#1AAB8B)"
+        }
+      ]
+    },
+    "home_camera_contract": {
+      "title": "Camera Maintenance Contract",
+      "description": "The Vision of Things company connects and extends the security camera networks, and also enables you to contract electronically for installation and extension, and to book an appointment for a quick inspection.",
+      "button_1": "Create new contract",
+      "button_2": "Renew contract"
+    },
+    "why_choose_us": {
+      "title": "Why choose Vision Things",
+      "description": "Why choose Vision Things to supply, install and operate technical equipment in the fields of IT and information in general?",
+      "cards": [
+        {
+          "id": 1,
+          "title": "Supplying New Technical Equipment",
+          "description": "A vision of things company provides completely new and always better technical solutions",
+          "boxColor": "linear-gradient(to bottom,#8B60ED,#B372BD)"
+        },
+        {
+          "id": 2,
+          "title": "Providing Technical Support",
+          "description": "We also provide technical support, assistance and visits to solve problems",
+          "boxColor": "linear-gradient(to bottom,#21C8F6,#637BFF)"
+        },
+        {
+          "id": 3,
+          "title": "The Price Is Better Than Market Price",
+          "description": "Vision of Things always offers the best prices compared to the local and international market",
+          "boxColor": "linear-gradient(to bottom,#6EDCC4,#1AAB8B)"
+        },
+        {
+          "id": 4,
+          "title": "The Company's Experience In The Field of Technical",
+          "description": "The company has sufficient experience in the fields of IT by our engineers",
+          "boxColor": "linear-gradient(to bottom,#F19A1A,#FFC73C)"
+        },
+        {
+          "id": 5,
+          "title": "Providing The Appropriate Technical Solutions",
+          "description": "We always choose and recommend the best choice and suitable solutions for our customers",
+          "boxColor": "linear-gradient(to bottom,#DB678D,#EC454F)"
+        }
+      ]
+    }
+  },
+  "about_us": {
+    "title_1": "About Us",
+    "title_2": "Meet Our Team...",
+    "description": "A Saudi company working in the field of technology and information through using of AI (artificial intelligence) technologies, computer vision, the use of robots, the provision of AR (augmented reality) experience, data science, the acquisition of outputs through certain procedures that created according to the workflow, the installation of networking and communications services, camera monitoring systems and the provision of Cyber security services.",
+    "vision_and_mission": {
+      "title": "Vision and mission",
+      "description": "Providing a vision for the future of technology in the Saudi Arabia. Providing the latest science technology solutions for help our customers in their business and supporting the Kingdom's economy by providing the latest technology and solutions.",
+      "button": "Contact Now"
+    },
+    "our_values": {
+      "title": "Values",
+      "creativity": "Creativity",
+      "win_win_situation": "Win-Win Situation",
+      "continuous_development": "Continuous Development",
+      "efficiency": "Efficiency",
+      "discipline": "Discipline"
+    }
+  },
+  "contact_us": {
+    "title": "Let's talk",
+    "description": "Contact us...",
+    "form": {
+      "title": "Contact Us",
+      "description": "You can contact us and leave complaints and suggestions or any inquiry you want, and we will contact you as soon as possible",
+      "address": "Kingdom of Saudi Arabia - Jeddah - Al-Zahra Dist - Postal Code 23522",
+      "cell": "00967775124874",
+      "form_fields": {
+        "name": "Name",
+        "phone": "Phone",
+        "email": "Email",
+        "subject": "Subject",
+        "message": "Message",
+        "button": "Send Message"
+      }
+    }
+  },
+  "user": {
+    "sidebar": [
+      {
+        "id": 1,
+        "title": "Overview",
+        "elements": [
+          { "id": 1, "title": "Edit Profile", "url": "/en/user/edit-profile" },
+          { "id": 2, "title": "Change Email", "url": "/en/user/change-email" },
+          {
+            "id": 3,
+            "title": "Change Password",
+            "url": "/en/user/change-password"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "My Services",
+        "elements": [
+          {
+            "id": 1,
+            "title": "My Contracts",
+            "url": "/en/user/my-contracts"
+          },
+          {
+            "id": 2,
+            "title": "Create New Contract",
+            "url": "/en/user/create-new-contract"
+          },
+          {
+            "id": 3,
+            "title": "Renew Contract",
+            "url": "/en/user/renew-contract"
+          },
+          { "id": 4, "title": "Visit Request", "url": "/en/user/visit-request" }
+        ]
+      }
+    ],
+    "edit_profile": {
+      "title": "Edit Profile",
+      "personal_information": {
+        "title": "Personal Information",
+        "name": "Name",
+        "company_type": "Company Type",
+        "commercial_number": "Commercial Number",
+        "tax_number": "Tax Number"
+      },
+      "address": {
+        "title": "Address",
+        "city": "City",
+        "building_number": "Building Number",
+        "street": "Street",
+        "another_number": "Another Number",
+        "district": "District",
+        "postal_code": "Postal Code"
+      },
+      "button": "Update"
+    },
+    "change_email": {
+      "title": "Change Email",
+      "new_email": "New Email",
+      "password": "Password",
+      "button": "Change Email"
+    },
+    "change_password": {
+      "title": "Change Password",
+      "old_password": "Old Password",
+      "new_password": "New Password",
+      "re_type_password": "Re-type Password",
+      "button": "Change Password"
+    },
+    "my_contracts": { "title": "My Contracts" },
+    "create_new_contract": { "title": "Create New Contract" },
+    "renew_contract": { "title": "Renew Contract" },
+    "visit_request": {
+      "title": "Visit Request",
+      "description": "If you need a visit from our technicians, you can send a visit request just one click away and we will call you back within 24 hours to schedule an appointment for just 750.00 SAR.",
+      "button": "Request a visit"
+    }
+  },
+  "footer": {
+    "description": "If you want to get a service from Vision things, you can contact us or through our means of communication",
+    "quick_links": "QUICK LINKS",
+    "home": "Home",
+    "about_us": "About Us",
+    "services": "Services",
+    "cameras_contract": "Cameras Contract",
+    "contact": "Contact",
+    "policies_and_terms": "POLICIES & TERMS",
+    "terms_and_conditions": "Terms and Conditions",
+    "privacy_policy": "Privacy Policy",
+    "exchange_and_return_policy": "Exchange and Return Policy",
+    "have_a_question": "HAVE A QUESTION",
+    "address": "Kingdom of Saudi Arabia - Jeddah - Al-Zahra Dist - Postal Code 23522",
+    "copy_right": "© 2023 Vision Things. All Rights Reserved."
+  }
+}
