@@ -28,12 +28,19 @@ const HomeHeader = ({ lang, dict }) => {
             >
               <Box width={"fit-content"}>
                 <Title>
-                  <Typography variant="h2" color={"white"}>
+                  <Typography
+                    variant={lang === "ar" ? "h3" : "h4"}
+                    color={"white"}
+                  >
                     {dict.home.header.title_1}
                   </Typography>
                 </Title>
               </Box>
-              <Typography variant="h3" color={"#51a29d"} my={2}>
+              <Typography
+                variant={lang === "ar" ? "h4" : "h5"}
+                color={"#51a29d"}
+                my={2}
+              >
                 {dict.home.header.title_2}
               </Typography>
               <Link href={`/${lang}/contact-us`}>
@@ -42,7 +49,7 @@ const HomeHeader = ({ lang, dict }) => {
             </Grid>
             <Grid item xs={12} sm={7}>
               <img
-                src="/images/home_brain.png"
+                src="/images/smart_home.png"
                 alt="Brain"
                 width={"100%"}
                 className={lang === "ar" ? "reverse-img" : undefined}

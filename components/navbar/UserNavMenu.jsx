@@ -53,7 +53,7 @@ const UserNavMenu = ({ lang, dict }) => {
           color={"#9fb3c8"}
           sx={{ cursor: "default" }}
         >
-          <Link href={`/${lang}/user`}>
+          <Link href={`/${lang}/account`}>
             <Box my={2} display={"flex"}>
               <GridViewTwoToneIcon />
               <Typography

@@ -13,8 +13,8 @@
   },
   "home": {
     "header": {
-      "title_1": "Your journey to Artifical Intelligence",
-      "title_2": "Starts with us...",
+      "title_1": "Protect your home and business with the best security cameras and systems.",
+      "title_2": "Your security is our responsibility",
       "button": "Contact Us Now"
     },
     "statistics": {
@@ -27,29 +27,41 @@
     },
     "about_us": {
       "title": "About Us",
-      "description": "A Saudi company working in the field of technology and information through using of AI (artificial intelligence) technologies, computer vision, the use of robots, the provision of AR (augmented reality) experience, data science, the acquisition of outputs through certain procedures that created according to the workflow, the installation of networking and communications services, camera monitoring systems and the provision of Cyber security services.",
+      "description": "Vision Things is a Saudi company that specializes in providing home & business security solutions for residential and commercial customers. We have a team of experienced and certified technicians who can install and maintain your security system with professionalism and efficiency. We believe that security is not a luxury, but a necessity. That’s why we offer a wide range of products and services to suit your specific needs and budget. Whether you need a simple surveillance camera or a complex security system, we have the right solution for you.",
       "button": "Know More"
     },
     "our_services": {
       "title": "Our Services",
-      "description": "The Vision Things Company offers many technical and informational services, networks and other services that you can view and learn more about",
+      "description": "Vision Things offers a range of services to help you secure your home and business with the best CCTV and home security solutions.",
       "cards": [
         {
           "id": 1,
-          "title": "Development and Research",
-          "description": "The company works to provide the latest technical solutions through R&D in the following fields AI, CR, Robots and IOT",
+          "title": "Consultation",
+          "description": "We at Vision Things provide free consultation and assessment of your security needs and recommend the most suitable products, services and systems that suits your property and budget.",
           "boxColor": "linear-gradient(to bottom,#8B60ED,#B372BD)"
         },
         {
           "id": 2,
-          "title": "Network Solutions",
-          "description": "Network extension design is the process of planning and implementing a new or updated network system. This includes identifying business needs",
+          "title": "Installation",
+          "description": "We install your security cameras and systems with professionalism and efficiency, ensuring that they are properly positioned, connected, and configured to provide optimal performance and coverage.",
           "boxColor": "linear-gradient(to bottom,#21C8F6,#637BFF)"
         },
         {
           "id": 3,
-          "title": "Business Solutions",
-          "description": "Creating websites and technical solutions to facilitate business management operations and make them administratively more professional",
+          "title": "Maintenance",
+          "description": "We offer regular maintenance and repair services to keep your security cameras and systems in good working condition and prevent any issues or malfunctions that may compromise your security.",
+          "boxColor": "linear-gradient(to bottom,#6EDCC4,#1AAB8B)"
+        },
+        {
+          "id": 4,
+          "title": "Support",
+          "description": "We provide 24/7 customer support and emergency response, so you can always reach us if you have any questions, concerns, or problems with your security cameras and systems.",
+          "boxColor": "linear-gradient(to bottom,#8B60ED,#B372BD)"
+        },
+        {
+          "id": 5,
+          "title": "Remote Contracting",
+          "description": "Because your time matters, we have provided remote contracting services that enable you to contract, renew the contract, and request a technician visit through our website.",
           "boxColor": "linear-gradient(to bottom,#6EDCC4,#1AAB8B)"
         }
       ]
@@ -59,6 +71,37 @@
       "description": "The Vision of Things company connects and extends the security camera networks, and also enables you to contract electronically for installation and extension, and to book an appointment for a quick inspection.",
       "button_1": "Create new contract",
       "button_2": "Renew contract"
+    },
+    "camera_installation": {
+      "title": "How To Install Camera Myself",
+      "description": "Installing a security camera system yourself can be a challenging but rewarding project. There are different types of security cameras and systems, and the installation process may vary depending on the model and features you choose. However, here are some general steps and tips that can help you set up your own security camera system",
+      "steps": [
+        {
+          "id": 1,
+          "content": "First, you need to decide how many cameras you need and where you want to place them. You should cover the most vulnerable areas of your property, such as the front door, back door, windows, garage, etc. You can also use a video doorbell for your front door, which can alert you when someone approaches or rings the bell. You can also use indoor cameras to monitor specific rooms or areas inside your house.",
+          "img": "/images/iot.png"
+        },
+        {
+          "id": 2,
+          "content": "Second, you need to choose the type of cameras and system you want. There are wired and wireless options, as well as analog and digital ones. Wired cameras require running cables from each camera to a central DVR (digital video recorder) or NVR (network video recorder) box, which stores the footage and allows you to access it remotely. Wireless cameras use Wi-Fi or cellular signals to transmit the footage to a cloud service or a local storage device. Analog cameras use BNC cables and baluns (adapters that convert analog signals to digital ones) to connect to the DVR box. Digital cameras use ethernet cables or Wi-Fi to connect to the NVR box or the cloud service.",
+          "img": "/images/wireless.png"
+        },
+        {
+          "id": 3,
+          "content": "Third, you need to prepare the camera installation. You should plan the route of the cables (if using wired cameras) and make sure you have enough length and connectors for each camera. You should also check the power source and the internet connection for each camera. You may need to drill holes in the walls or ceilings to run the cables or mount the cameras. You should also mark the area where you want to mount each camera with a pencil and pre-drill the holes if necessary.",
+          "img": "/images/maintenance.png"
+        },
+        {
+          "id": 4,
+          "content": "Fourth, you need to install the cameras and connect them to the DVR or NVR box (if using wired cameras) or to your Wi-Fi network (if using wireless cameras). You should follow the instructions that come with your camera system and use the mounting brackets and screws provided. You should also adjust the angle and position of each camera to get the best view of the area you want to monitor. You should also test each camera to make sure it is working properly and sending clear images and sound.",
+          "img": "/images/device_installing.png"
+        },
+        {
+          "id": 5,
+          "content": "Fifth, you need to set up the user interface for your camera system. You should connect your DVR or NVR box to a monitor, mouse, and keyboard, or use a smartphone app or a web browser to access your camera system remotely. You should follow the instructions that come with your camera system and set up your account, password, network settings, recording settings, motion detection settings, alerts settings, etc. You should also review your footage regularly and delete any unnecessary files to free up space.",
+          "img": "/images/ui.png"
+        }
+      ]
     },
     "why_choose_us": {
       "title": "Why choose Vision Things",
@@ -100,7 +143,7 @@
   "about_us": {
     "title_1": "About Us",
     "title_2": "Meet Our Team...",
-    "description": "A Saudi company working in the field of technology and information through using of AI (artificial intelligence) technologies, computer vision, the use of robots, the provision of AR (augmented reality) experience, data science, the acquisition of outputs through certain procedures that created according to the workflow, the installation of networking and communications services, camera monitoring systems and the provision of Cyber security services.",
+    "description": "Vision Things is a Saudi company that specializes in providing home & business security solutions for residential and commercial customers. We have a team of experienced and certified technicians who can install and maintain your security system with professionalism and efficiency. We believe that security is not a luxury, but a necessity. That’s why we offer a wide range of products and services to suit your specific needs and budget. Whether you need a simple surveillance camera or a complex security system, we have the right solution for you.",
     "vision_and_mission": {
       "title": "Vision and mission",
       "description": "Providing a vision for the future of technology in the Saudi Arabia. Providing the latest science technology solutions for help our customers in their business and supporting the Kingdom's economy by providing the latest technology and solutions.",
@@ -139,12 +182,20 @@
         "id": 1,
         "title": "Overview",
         "elements": [
-          { "id": 1, "title": "Edit Profile", "url": "/en/user/edit-profile" },
-          { "id": 2, "title": "Change Email", "url": "/en/user/change-email" },
+          {
+            "id": 1,
+            "title": "Edit Profile",
+            "url": "/en/account/edit-profile"
+          },
+          {
+            "id": 2,
+            "title": "Change Email",
+            "url": "/en/account/change-email"
+          },
           {
             "id": 3,
             "title": "Change Password",
-            "url": "/en/user/change-password"
+            "url": "/en/account/change-password"
           }
         ]
       },
@@ -155,19 +206,23 @@
           {
             "id": 1,
             "title": "My Contracts",
-            "url": "/en/user/my-contracts"
+            "url": "/en/account/my-contracts"
           },
           {
             "id": 2,
             "title": "Create New Contract",
-            "url": "/en/user/create-new-contract"
+            "url": "/en/account/create-new-contract"
           },
           {
             "id": 3,
             "title": "Renew Contract",
-            "url": "/en/user/renew-contract"
+            "url": "/en/account/renew-contract"
           },
-          { "id": 4, "title": "Visit Request", "url": "/en/user/visit-request" }
+          {
+            "id": 4,
+            "title": "Visit Request",
+            "url": "/en/account/visit-request"
+          }
         ]
       }
     ],

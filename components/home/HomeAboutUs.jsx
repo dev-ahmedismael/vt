@@ -10,7 +10,7 @@ const HomeAboutUs = ({ dict, lang }) => {
   const section = {
     title: dict.home.about_us.title,
     description: dict.home.about_us.description,
-    imgUrl: "/images/home_world.svg",
+    imgUrl: "/images/backup.png",
     btnUrl: `/${lang}/about-us`,
     btnContent: dict.home.about_us.button,
   };
@@ -48,6 +48,7 @@ const HomeAboutUs = ({ dict, lang }) => {
                     src={section.imgUrl}
                     alt={section.title}
                     width={"100%"}
+                    className={lang === "ar" ? "reverse-img" : undefined}
                   />
                 </Grid>
               </Grid>
